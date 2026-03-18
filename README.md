@@ -25,7 +25,5 @@ This project is a smart door system using Arduino with:
 ## 📁 Code
 Main file: `smart_door.ino`
 
-## 🚀 Future Improvements
-- RFID card integration
-- LCD display
-- Security lock after 3 wrong attempts
+## 🎥 Watch the project demo here:
+https://youtube.com/shorts/NbaCphMF-WA?si=D13G-5QL2wD8SR0G
